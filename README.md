@@ -23,4 +23,4 @@ yarn dev
 
 Open http://localhost:3000 with your browser to see the result.
 
-&copy; 2022 - Made With ❤️ By <b>Abhinav Gupta</b>
+&copy; 2024 - Made With ❤️ By <b>Abhinav Gupta</b>
